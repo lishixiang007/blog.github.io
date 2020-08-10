@@ -3,10 +3,10 @@
     "title": "RainbomSea",
     "author": "BY <RainbomSea@qq.com>",
     "version": "1.1.0",
-    "homepage": "http://RainbomSea.github.io",
+    "homepage": "https://lishixiang007.github.io/blog.github.io/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/RainbomSea/RainbomSea.github.io"
+        "url": "https://lishixiang007.github.io/blog.github.io/"
     },
     "bugs": "https://github.com/RainbomSea/RainbomSea.github.io/issues",
     "devDependencies": {
